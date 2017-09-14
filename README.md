@@ -1,8 +1,14 @@
 ## 《手机平台应用开发》《移动应用开发》
 * 2017学年秋季学期
-* **课程时间(1-18):** 星期二 12节／34节／56节
-* **理论课课程地点:** D302
-* **实验课课程地点：** 实验中心B201（周二8-11）,实验中心B202（周四1-4）,实验中心B203（周四7-10）, 实验中心B202(手机平台应用开发)
+* **课程时间(1-18):** 
+	- 移动应用开发 : 星期二 1-2节／3-4节／5-6节
+	- 手机平台应用开发 : 星期一 7-8节
+* **理论课课程地点:** 
+	- 移动应用开发 : D302
+	- 手机平台应用开发 : C304
+* **实验课课程地点：** 
+	- 移动应用开发 : 实验中心B201（周二8-11）,实验中心B202（周四1-4）,实验中心B203（周四7-10）
+	- 手机平台应用开发 : 实验中心B202(周一9-10)
 * **课程内容：** Android应用开发
 
 ### **通知(望大家相互转告)**
@@ -167,11 +173,13 @@ Android官网 : https://developer.android.com/index.html
   * Project: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/课程项目说明.pdf" target="_blank" >课程项目说明.pdf</a>
   
   * 组队方式：最多4人一组，可以跨班组队
-  * 分组名单报名： <a  href ="https://www.chaojibiaoge.com/index.php/Form/i/sharekey/mgq7g3g8" target="_blank" >报名链接</a>
+  * 分组名单报名： 
+  	- <a  href ="https://www.chaojibiaoge.com/index.php/Form/i/sharekey/mgq7g3g8" target="_blank" >移动应用开发-报名链接</a>
+  	- [手机平台应用开发-报名链接](https://shimo.im/sheet/kVh9603O33kVH1Cc?from=new-sheet-guide&r=MEZXG8)
   * **用户手册**：其实用户手册就是我们平常使用一个软件时给我们的安装教程以及使用说明之类的文件。这里有几个例子：<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/arbowebforestusermanual.pdf" target="_blank" >arbowebforestusermanual.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/mobile_app_user_s_guide_acronis.pdf" target="_blank" >mobile_app_user_s_guide_acronis.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/genesys_care_mobile_application_user_guide.pdf" target="_blank" >genesys_care_mobile_application_user_guide.pdf</a>
   以及一些建议：[How to Create a User Manual: 12 Steps](http://www.wikihow.com/Create-a-User-Manual)、[How to Write User Manuals](http://www.wikihow.com/Write-User-Manuals)。
   * **说明文档**:
-    * 模板：[项目文档模板.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/项目说明文档模板.pdf) [中山大学本科生毕业论文_设计_写作与印制规范.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/中山大学本科生毕业论文_设计_写作与印制规范.pdf)
+    * 模板：[项目文档模板.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/项目说明文档模板.pdf) [中山大学本科生毕业论文_设计_写作与印制规范.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/中山大学本科生毕业论文（设计）写作与印制规范.pdf)
     * 参考文档： [shoppingbuddy.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/shoppingbuddy.pdf)
   * **个人报告**：个人报告可以直接使用平常的实验报告模板，但是需要在报告前注明自己所在小组以及负责的部分。个人报告内容基于自己负责的部分，而不是小组最终的成果。
   * 截止时间**待定**。
